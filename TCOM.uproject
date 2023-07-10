@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{FFCA79FC-44A8-7C2C-3179-079386E2DC06}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TCOM",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
+	"TargetPlatforms": [
+		"HTML5",
+		"LinuxNoEditor",
+		"MacNoEditor",
+		"TVOS",
+		"WindowsNoEditor",
+		"AllDesktop",
+		"HoloLens"
+	]
+}
